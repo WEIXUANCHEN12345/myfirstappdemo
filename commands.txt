@@ -2,4 +2,8 @@ add
 commit
 push
 pull
+<<<<<<< HEAD
 other_commands
+=======
+others
+>>>>>>> myfirstappdemo.git
